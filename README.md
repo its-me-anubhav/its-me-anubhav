@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Combo | Basics of C++ with Data Structures and Algorithms.](https://www.codingninjas.com/)
 
-- 🌱 I’m currently learning **java , c and c++ .**
+- 🌱 I’m currently learning **java , c and c++ with DSA.**
 
 - 🤝 I’m looking for help with **Code**
 
-- 📫 How to reach me **anubhavshakya5432@gmail.com**
+- 📫 How to reach me **anubhavshakya543@gmail.com**
 
 - ⚡ Fun fact **I love to do maths questions.**
 
