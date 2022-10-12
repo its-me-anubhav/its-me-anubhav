@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Combo | Basics of C++ with Data Structures and Algorithms.](https://www.codingninjas.com/)
 
-- 🌱 I’m currently learning **java , c and c++ with DSA.**
+- 🌱 I’m currently learning **java , c and c++ with DSA, WEB DEVELOPEMENT.**
 
 - 🤝 I’m looking for help with **Code**
 
