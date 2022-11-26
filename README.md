@@ -10,9 +10,7 @@
 - 📫 How to reach me **anubhavshakya543@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![](https://img.shields.io/badge/-its-me-anubhav-%23181717?style=flat-square&logo=github)](https://github.com/its-me-anubhav)
-[![](https://img.shields.io/badge/-@Anubhavshakya63-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@Anubhavshakya63)
-[![](https://img.shields.io/badge/-Daniaal%20Nadir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Anubhav shakya/)](https://www.linkedin.com/in/Anubhav shakya/)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
