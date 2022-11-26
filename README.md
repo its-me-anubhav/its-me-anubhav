@@ -10,9 +10,9 @@
 - 📫 How to reach me **anubhavshakya543@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anubhav shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav shakya" height="30" width="40" /></a>
-<a href="https://fb.com/anubhav shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anubhav shakya" height="30" width="40" /></a>
-<a href="https://instagram.com/its_anubhav_0.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_anubhav_0.00" height="30" width="40" /></a>
+[![](https://img.shields.io/badge/-its-me-anubhav-%23181717?style=flat-square&logo=github)](https://github.com/its-me-anubhav)
+[![](https://img.shields.io/badge/-@Anubhavshakya63-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@Anubhavshakya63)
+[![](https://img.shields.io/badge/-Daniaal%20Nadir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Anubhav shakya/)](https://www.linkedin.com/in/Anubhav shakya/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
