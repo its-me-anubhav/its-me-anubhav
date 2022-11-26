@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 <h3 align="center">A passionate student , coder.</h3>
 <h3 align="center"> If you visit my profile then you can give me a star. </h3>
-<img align="center" src="http://imgur.com/gallery/kkKN2in">
- <img alt="C" src="http://imgur.com/gallery/kkKN2in"/>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Combo | Basics of C++ with Data Structures and Algorithms.](https://www.codingninjas.com/)
 
 - 🌱 I’m currently learning **java , c and c++ with DSA, WEB DEVELOPEMENT.**
