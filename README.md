@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 <h3 align="center">A passionate student , coder.</h3>
 <h3 align="center"> If you visit my profile then you can give me a star. </h3>
-- 🔭 I’m currently working on [Combo | Basics of C++ with Data Structures and Algorithms.](https://www.codingninjas.com/)
-
-- 🌱 I’m currently learning **java , c and c++ with DSA, WEB DEVELOPEMENT.**
-
 - 🤝 I’m looking for help with **Code**
-
 - 📫 How to reach me **anubhavshakya543@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
