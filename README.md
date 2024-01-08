@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 <h3 align="center">A passionate student , coder.</h3>
 <h3 align="center"> If you visit my profile then you can give me a star. </h3>
-- 📫 How to reach me **anubhavshakya543@gmail.com**
+- 📫 How to reach me **<a>anubhavshakya543@gmail.com<</a>**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
