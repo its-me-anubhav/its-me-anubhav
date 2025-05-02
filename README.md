@@ -45,10 +45,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-me-anubhav&show_icons=true&theme=react&hide_border=true" alt="Anubhav's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-anubhav&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-anubhav&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
