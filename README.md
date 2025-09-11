@@ -6,7 +6,7 @@
 
 📍 **Location:** Delhi, India  
 📫 **Reach me at:** [anubhavshakya543@gmail.com](mailto:anubhavshakya543@gmail.com)  
-🔗 **Portfolio:** [Visit Here](https://portfolio-lyart-ten-47.vercel.app)  
+🔗 **Portfolio:** [Visit Here](https://portfolioanubhav.vercel.app/) 
 👨‍💻 **GitHub:** [its-me-anubhav](https://github.com/its-me-anubhav)  
 💼 **LinkedIn:** [anubhav-shakya](https://www.linkedin.com/in/anubhav-shakya/)
 
