@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-<h3 align="center">A passionate software engineering student focused on building scalable web applications and solving real-world problems.</h3>
+<h3 align="center">A passionate software engineer focused on building scalable web applications and solving real-world problems.</h3>
 <h4 align="center">If you liked my profile, feel free to leave a ⭐</h4>
 
 ---
 
 📍 **Location:** Delhi, India  
 📫 **Reach me at:** [anubhavshakya543@gmail.com](mailto:anubhavshakya543@gmail.com)  
-🔗 **Portfolio:** [Visit Here](https://portfolioanubhav.vercel.app/) 
+🔗 **Portfolio:** [Visit Here](https://dev-anubhav.vercel.app/) 
 👨‍💻 **GitHub:** [its-me-anubhav](https://github.com/its-me-anubhav)  
 💼 **LinkedIn:** [anubhav-shakya](https://www.linkedin.com/in/anubhav-shakya/)
 
